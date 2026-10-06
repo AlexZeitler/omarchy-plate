@@ -2,7 +2,7 @@
 
 Turn a pixel-art SVG logo into a laser-cuttable sheet-metal plate. The logo is **cut out of the plate** (inverted), and the result is exported as a **STEP** solid (and optionally as a **DXF** cut contour).
 
-![Preview: 300 mm plate with the logo cut out](preview.png)
+https://github.com/user-attachments/assets/3920bcaa-afb0-46bb-9d64-8ea187e8ba35
 
 ## Features
 
